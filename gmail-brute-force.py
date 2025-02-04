@@ -28,8 +28,8 @@ def progress(curr, total, suffix=""):
 # try to login into the gmail account
 #
 
-def authenticate(server, target_email, password):
-    try:
+def authenticate(server, kaneshanita9@gmail.com, password):
+    try:@Kaneh13
         # attempt to login 
         server.login(target_email, password)
         return True 
